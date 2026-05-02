@@ -70,11 +70,15 @@ Básica: ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados: Fundamentos e A
 
 # Aulas de MySQL
 
-<img width="442" height="318" alt="image" src="https://github.com/user-attachments/assets/4ad62edf-f982-469b-8a10-d2da4ae43f41" />
+<img width="857" height="350" alt="image" src="https://github.com/user-attachments/assets/e54c3ce1-fbf2-4c32-af39-0c5e9d255205" />
+
 
 
 ## DER do Banco
-<img width="630" height="591" alt="image" src="https://github.com/user-attachments/assets/3f281610-2b21-4354-9f5d-0f0b1cbe04ed" />
+
+<img width="1037" height="589" alt="image" src="https://github.com/user-attachments/assets/bde331dd-aaac-4bb6-98ce-ea02bd755878" />
+
+
 
 # Tabelas e Entidades
 
