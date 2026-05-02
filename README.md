@@ -86,6 +86,4 @@ Contribuições são bem-vindas! Se você deseja adicionar novos tópicos, melho
 
 ## Contato
 
-Para dúvidas, sugestões ou feedback, por favor, entre em contato pelo e-mail: [seu-email@dominio.com](victor.icoma@etec.sp.gov.br)
-
-Aproveite suas aulas de MySQL e bons estudos!
+Professor Victor Sena Icoma: victorsena3010@gmail.com
