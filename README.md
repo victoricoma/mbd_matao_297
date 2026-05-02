@@ -1,8 +1,11 @@
 # Aulas de MySQL
-![2](https://github.com/user-attachments/assets/7c261dd3-93b8-4931-abb8-3d2be52e29b2)
+
+<img width="442" height="318" alt="image" src="https://github.com/user-attachments/assets/4ad62edf-f982-469b-8a10-d2da4ae43f41" />
+
 
 ## DER do Banco
-![image](https://github.com/user-attachments/assets/6b43c55a-7b38-4dfe-b703-1d6772993ab0)
+<img width="630" height="591" alt="image" src="https://github.com/user-attachments/assets/3f281610-2b21-4354-9f5d-0f0b1cbe04ed" />
+
 
 Bem-vindo ao repositório de Aulas de MySQL! Este repositório foi criado para fornecer uma base sólida e abrangente sobre a utilização do MySQL, um dos sistemas de gerenciamento de banco de dados relacionais (RDBMS) mais populares do mundo. Este material é adequado tanto para iniciantes quanto para desenvolvedores intermediários que desejam aprofundar seus conhecimentos em SQL e MySQL.
 
