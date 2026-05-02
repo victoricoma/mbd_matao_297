@@ -3,6 +3,12 @@
 ## 📚 Bem-vindo à Aula de Modelagem de Banco de Dados!
 
 Esta aula aborda os fundamentos essenciais da **modelagem conceitual de banco de dados**, um tema crucial para profissionais que trabalham com sistemas de informação, desenvolvimento de software e gestão de dados.
+### Modelo de Diagrama
+<img width="857" height="350" alt="image" src="https://github.com/user-attachments/assets/69c2689a-c277-40d3-906e-e12c6df8c364" />
+
+
+### Modelo com Atributos
+<img width="1037" height="589" alt="image" src="https://github.com/user-attachments/assets/42dfbf32-7da6-4345-8a03-faf140097a6c" />
 
 ---
 
