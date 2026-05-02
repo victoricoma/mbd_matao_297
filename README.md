@@ -1,15 +1,72 @@
-# Aulas de MySQL
+# PLANO DE AULA
 
-<img width="442" height="318" alt="image" src="https://github.com/user-attachments/assets/4ad62edf-f982-469b-8a10-d2da4ae43f41" />
+Candidato(a): Victor Sena Icoma
+Concurso: Professor de Ensino Superior – Fatec Matão (Edital Nº 297/01/2026)
+Curso: Superior de Tecnologia em Desenvolvimento de Software Multiplataforma
+Disciplina: Modelagem de Banco de Dados
+Tema da Aula: Modelagem Conceitual de Banco de Dados: Entidades, Atributos, Relacionamentos e Cardinalidades
+Duração: 50 minutos
 
+## 1. OBJETIVOS
 
-## DER do Banco
-<img width="630" height="591" alt="image" src="https://github.com/user-attachments/assets/3f281610-2b21-4354-9f5d-0f0b1cbe04ed" />
+Objetivo Geral:
+Capacitar os alunos a abstrair requisitos do mundo real e representá-los graficamente através do Modelo Entidade-Relacionamento (MER).
 
+## Objetivos Específicos:
 
-Bem-vindo ao repositório de Aulas de MySQL! Este repositório foi criado para fornecer uma base sólida e abrangente sobre a utilização do MySQL, um dos sistemas de gerenciamento de banco de dados relacionais (RDBMS) mais populares do mundo. Este material é adequado tanto para iniciantes quanto para desenvolvedores intermediários que desejam aprofundar seus conhecimentos em SQL e MySQL.
+Compreender o propósito do nível conceitual na arquitetura de bancos de dados.
 
-## Conteúdo do Repositório
+Identificar e diagramar corretamente Entidades e Atributos a partir de um cenário prático.
+
+Estabelecer Relacionamentos entre entidades.
+
+Analisar e definir Cardinalidades (mínima e máxima) com base em regras de negócio.
+
+## 2. CONTEÚDO PROGRAMÁTICO
+
+Introdução à Modelagem Conceitual: O que é e por que é independente de SGBD.
+
+Entidades: Definição, notação gráfica, Entidades Fortes vs. Entidades Fracas.
+
+Atributos: Simples, Compostos, Multivalorados e Determinantes (Chaves).
+
+Relacionamentos: Associação entre instâncias, grau de relacionamento.
+
+Cardinalidades: Regras de negócio, restrição de participação (mínima) e de proporção (máxima) - Notação (1,1), (0,n), etc.
+
+## 3. METODOLOGIA E ESTRATÉGIAS DIDÁTICAS
+
+A aula será conduzida através de Exposição Dialogada e Problematização.
+
+Fase Teórica: Apresentação dos conceitos fundamentados na literatura clássica com exemplos cotidianos (ex: Sistema de uma Faculdade).
+
+Fase Prática (Construção Conjunta): Resolução de um Estudo de Caso ("Mini-Mundo" de um E-commerce) sendo modelado passo a passo na lousa, simulando a extração de requisitos juntamente com a turma para fixação imediata do aprendizado.
+
+## 4. RECURSOS DIDÁTICOS
+
+GitHub e Readme com Lousa e Prática Laboratorial e Mapamental com STEAM.
+
+Projetor Multimídia (slides esquemáticos para definições formais).
+
+Opcional: Demonstração de uma ferramenta CASE de modelagem conceitual (ex: brModelo).
+
+## 5. AVALIAÇÃO
+
+A avaliação será do tipo Formativa e Contínua:
+
+Observação da participação dos alunos durante a modelagem conjunta na lousa.
+
+Resolução de um "Quiz rápido" oral ao final da aula sobre restrições de cardinalidade.
+
+Como atividade extraclasse, será proposto um descritivo de negócio (Sistema de Biblioteca) para que os alunos entreguem o respectivo DER na próxima aula.
+
+## 6. BIBLIOGRAFIA DE REFERÊNCIA
+
+Básica: HEUSER, Carlos A. Projeto de Banco de Dados. 6 ed. Porto Alegre: Bookman, 2010.
+
+Básica: ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados: Fundamentos e Aplicações. 7 ed. São Paulo: Pearson, 2019.
+
+## Conteúdo do Repositório para Material Didático
 
 Neste repositório, você encontrará uma série de aulas e exemplos práticos que cobrem os seguintes tópicos essenciais do MySQL:
 
